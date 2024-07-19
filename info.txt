@@ -16,3 +16,4 @@ Normal body temperature for a cat is 102 degrees F.
 About 37% of American homes today have at least 1 cat.
 Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.
 The first commercially cloned pet was a cat named "Little Nicky." He cost his owner $50,000, making him one of the most expensive cats ever.
+Cats have 300 million neurons; dogs have about 160 million
